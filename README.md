@@ -1,4 +1,5 @@
 🎬 Netflix User Behavior Analysis & Business Intelligence Dashboard
+
 📌 Descripción del proyecto
 Este proyecto tiene como objetivo analizar el comportamiento de los usuarios de una plataforma de streaming inspirada en Netflix mediante técnicas de análisis de datos y Business Intelligence.
 A través de un proceso completo de preparación, exploración y visualización de datos, se estudian patrones de consumo, preferencias de contenido, comportamiento de los usuarios y factores relacionados con la retención y el abandono del servicio (Churn).
